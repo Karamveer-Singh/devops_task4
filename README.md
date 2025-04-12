@@ -261,6 +261,13 @@ Now
 157. git status
 158. git add .
 159. git commit -m "devops_task4"
-160. git push origin main
+160. git pull origin main
+161. git diff
+162. nano README.md 
+163. git diff
+164. git add .
+165. git commit -m "conflict resolved"
+166. git status
+167. git push origin main
 
 thanks 
